@@ -1,2 +1,0 @@
-# Optimitzacio
-Web Optimitzacio
